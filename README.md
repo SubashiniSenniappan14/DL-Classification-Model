@@ -38,9 +38,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name: SUBASHINI S
 
-### Register Number:
+### Register Number: 212222240106
 
 ```python
 class IrisClassifier(nn.Module):
