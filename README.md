@@ -38,7 +38,7 @@ Write your own steps
 
 ## PROGRAM
 
-### Name: SUBASHINI S
+### Name: Subashini S
 
 ### Register Number: 212222240106
 
